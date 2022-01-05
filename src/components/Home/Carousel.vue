@@ -7,7 +7,7 @@
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img
-          src="/img/adorable-dog-with-owner-at-the-pet-shop.jpg"
+          src="/img/slider-1.jpg"
           class="d-block w-100"
           alt="..."
         />
@@ -18,7 +18,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="/img/cute-little-dog-with-owners-at-the-pet-shop.jpg"
+          src="/img/slider-2.jpg"
           class="d-block w-100"
           alt="..."
         />
@@ -29,7 +29,7 @@
       </div>
       <div class="carousel-item">
         <img
-          src="/img/cute-little-dog-with-owners-at-the-pet-shop.jpg"
+          src="/img/slider-3.jpg"
           class="d-block w-100"
           alt="..."
         />

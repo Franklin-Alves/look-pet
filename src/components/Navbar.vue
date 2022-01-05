@@ -24,7 +24,7 @@ export default {
 <style scoped>
 
   #nav {
-    background-color: #00BFFF;
+    background-color: #1E90FF;
     padding: 20px 50px;
     border-bottom: 1px solid #4682B4;
     display: flex;
@@ -40,8 +40,8 @@ export default {
   #nav a{
     text-decoration: none;
     margin-left: 25px;
-    color: #FFFF00;
+    color: #FFD700;
     font-family: 'Poppins';
-    font-weight: 500;
+    font-weight: 900;
   }
 </style>

@@ -45,7 +45,7 @@ export default {
 
 .featured h1 {
   font-size: 25px;
-  margin: 40px 0 40px 30px;
+  margin: 60px 0 40px 30px;
 }
 
 .featured-container {
@@ -77,7 +77,7 @@ export default {
 }
 
  .featured .link-type-1 {
-  margin: 30px auto;
+  margin: 40px auto;
 
 }
 
